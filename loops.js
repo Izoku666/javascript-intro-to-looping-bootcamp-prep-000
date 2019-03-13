@@ -31,7 +31,7 @@ function incrementVariable()
 
 function doWhileLoop(num)
 {
-  console.log("I run once regardless")
+  //console.log("I run once regardless")
   do{
     console.log("I run once regardless.");
   }
