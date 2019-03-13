@@ -17,7 +17,7 @@ function whileLoop(n)
     while(num > 0){
       console.log(num);
       num--;
-      if(num === 0)
+      if(num == 0)
         console.log("done");
     }
 }
