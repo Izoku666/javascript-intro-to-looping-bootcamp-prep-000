@@ -21,3 +21,21 @@ function whileLoop(n)
         return "done";
     }
 }
+
+var i;
+function incrementVariable()
+{
+  i++;
+  return i;
+}
+
+function doWhileLoop()
+{
+  do(){
+    
+  }
+  
+  while(){
+    
+  }
+}
