@@ -22,7 +22,7 @@ function whileLoop(n)
     }
 }
 
-var i;
+var i = 0;
 function incrementVariable()
 {
   i++;
