@@ -32,7 +32,7 @@ function incrementVariable()
 function doWhileLoop()
 {
   do(){
-    
+    console.log("I run regardless");
   }
   
   while(){
